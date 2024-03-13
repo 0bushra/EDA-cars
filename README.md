@@ -1,6 +1,7 @@
 # Exploratory Data Analysis (EDA) for Car Dekho Dataset
 
-## Overview
+## Overview![Screenshot 2024-03-14 000152](https://github.com/0bushra/EDA-cars/assets/103776716/e22ea62a-6be2-4ac3-840c-7951afbf22d4)
+
 
 Exploratory Data Analysis (EDA) is a crucial step in understanding and analyzing any dataset. It involves exploring the data, summarizing its main characteristics, and visualizing its features to gain insights and identify patterns.
 
